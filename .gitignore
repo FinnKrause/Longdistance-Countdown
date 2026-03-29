@@ -22,4 +22,4 @@ dist-ssr
 *.sln
 *.sw?
 
-BackgroundImages/*
+FrontEnd/public/BackgroundImages
